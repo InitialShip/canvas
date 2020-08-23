@@ -62,7 +62,7 @@ function animate() {
     Particle.update()
   })
   c.restore()
-  radians+= 0.001
+  radians+= 0.01
 }
 
 init()
